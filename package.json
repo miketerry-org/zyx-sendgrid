@@ -1,0 +1,32 @@
+{
+  "name": "zyx-sendgrid",
+  "version": "0.20.0",
+  "description": "Implements sending of emails with SendGrid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miketerry-org/zyx-sendgrid.git"
+  },
+  "keywords": [
+    "zyx",
+    "sendgrid",
+    "email",
+    "express",
+    "multitenant"
+  ],
+  "author": "Mike Terry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miketerry-org/zyx-sendgrid/issues"
+  },
+  "homepage": "https://github.com/miketerry-org/zyx-sendgrid#readme",
+  "dependencies": {
+    "@sendgrid/mail": "^8.1.5",
+    "zyx-base": "^0.20.0",
+    "zyx-schema": "^0.20.2",
+    "zyx-system": "^0.20.0"
+  }
+}
