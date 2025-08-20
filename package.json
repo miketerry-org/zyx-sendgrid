@@ -1,6 +1,6 @@
 {
   "name": "zyx-sendgrid",
-  "version": "0.20.1",
+  "version": "0.20.2",
   "description": "Implements sending of emails with SendGrid",
   "main": "index.js",
   "scripts": {
